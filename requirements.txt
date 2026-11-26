@@ -1,0 +1,8 @@
+# Dashboard e inferencia, verificados con Python 3.12
+streamlit==1.51.0
+plotly==6.5.0
+pandas==2.2.3
+numpy==2.3.5
+scipy==1.16.3
+scikit-learn==1.6.1
+joblib==1.5.3

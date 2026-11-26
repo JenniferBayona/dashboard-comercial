@@ -1,0 +1,24 @@
+{
+  "integridad_datos": "correcta",
+  "registros": 138116,
+  "pedidos_usd": 82600,
+  "clusters_coincidentes": 82600,
+  "metricas_prueba_reproducidas": true,
+  "regresion_prueba": {
+    "MAE": 608.7491969663101,
+    "RMSE": 885.1159298841429,
+    "R2": 0.3824172124574664
+  },
+  "clasificacion_prueba": {
+    "Accuracy": 0.33000975398287635,
+    "Precision": 0.0838150289017341,
+    "Recall": 0.776056338028169,
+    "F1-Score": 0.1512904997254256,
+    "AUC-ROC": 0.560520218882864,
+    "Average Precision": 0.0999195764409961
+  },
+  "filas_prueba_regresion": 12390,
+  "filas_prueba_clasificacion": 18454,
+  "umbral_clasificacion": 0.4911380775074184,
+  "publicacion_dashboard": "pendiente de publicar y verificar URL"
+}

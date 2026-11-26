@@ -1,0 +1,42 @@
+{
+  "metodo": "Streamlit AppTest",
+  "escenarios": [
+    {
+      "caso": "Inicio con USD y todos los datos",
+      "resultado": "correcto"
+    },
+    {
+      "caso": "Selección vacía de perfiles",
+      "resultado": "correcto"
+    },
+    {
+      "caso": "Filtro sin resultados",
+      "resultado": "correcto"
+    },
+    {
+      "caso": "Filtro de canal Website",
+      "resultado": "correcto"
+    },
+    {
+      "caso": "Sin finalizados: KPI sin denominador",
+      "resultado": "correcto"
+    },
+    {
+      "caso": "Filtros numéricos combinados",
+      "resultado": "correcto"
+    },
+    {
+      "caso": "Simulación EUR: clasificación sin regresión USD",
+      "resultado": "correcto"
+    },
+    {
+      "caso": "Simulación USD: regresión y clasificación",
+      "resultado": "correcto"
+    },
+    {
+      "caso": "Cambio de moneda: alcance del clustering",
+      "resultado": "correcto"
+    }
+  ],
+  "despliegue_publico": "pendiente"
+}

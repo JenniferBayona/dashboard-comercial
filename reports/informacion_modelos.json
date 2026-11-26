@@ -1,0 +1,10 @@
+{
+    "python": "3.13.18",
+    "regresion": "Random Forest optimizado",
+    "clasificacion": "Random Forest optimizado",
+    "umbral_clasificacion": 0.4911380775074184,
+    "clustering": "K-Means",
+    "n_clusters": 4,
+    "moneda_regresion": "USD",
+    "nota": "Clasificación exploratoria con capacidad predictiva limitada."
+}

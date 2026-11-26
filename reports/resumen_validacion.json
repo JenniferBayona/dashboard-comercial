@@ -1,0 +1,20 @@
+{
+  "notebook": {
+    "celdas": 38,
+    "celdas_codigo_ejecutadas": 21,
+    "errores": 0,
+    "ejecucion": "IPython en proceso",
+    "python": "3.12.14",
+    "modalidades_probadas": [
+      "proyecto completo",
+      "solo artefactos_fase3.zip"
+    ]
+  },
+  "interfaz": {
+    "escenarios_correctos": 9,
+    "metodo": "Streamlit AppTest"
+  },
+  "metricas_originales_reproducidas": true,
+  "etiquetas_kmeans_verificadas": 82600,
+  "despliegue_publico": "pendiente"
+}

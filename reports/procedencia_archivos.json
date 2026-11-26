@@ -1,0 +1,32 @@
+[
+  {
+    "archivo_recibido": "Fase_1_PROYECTO(3).ipynb",
+    "bytes": 1939942,
+    "sha256": "d30969a21649aadb518af9499d18c90f019b9d3a8f7e5d52cfe91e8dfee992dc"
+  },
+  {
+    "archivo_recibido": "Fase_2_PROYECTO(2).ipynb",
+    "bytes": 469876,
+    "sha256": "d87e0d663aac62b611462c1a643912e6e4113d878d56f027537c454566dee9da"
+  },
+  {
+    "archivo_recibido": "Fase_3_PROYECTO(3).ipynb",
+    "bytes": 2979117,
+    "sha256": "882170e6f1f12c9cc94d88b9d645b6aa589fa48cc1d3428267d97f42057f6088"
+  },
+  {
+    "archivo_recibido": "artefactos_fase3.zip",
+    "bytes": 7641974,
+    "sha256": "04f2f37d1f16f9d2cf9ed2db0a7f6031e5b91642bbc3b054731955bcc9130024"
+  },
+  {
+    "archivo_recibido": "base_depurada_fase1.csv",
+    "bytes": 18542614,
+    "sha256": "c764c01ca8db8157c51a582d4f099a95d2ee1f5f7bbd899527e235f9f57d1f60"
+  },
+  {
+    "archivo_recibido": "guia_detallada_proyecto_ciencia_datos(7).pdf",
+    "bytes": 172353,
+    "sha256": "dfde6dd5c4ac16dd0ba8a0d9ba39964d50132fdb3830f8418d958124e318f966"
+  }
+]

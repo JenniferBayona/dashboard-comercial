@@ -1,0 +1,11 @@
+# Python 3.13.18
+# Compilación de PyTorch 2.14.1+cpu
+gdown==5.2.2
+ipython==7.34.0
+joblib==1.6.0
+matplotlib==3.10.0
+numpy==2.4.6
+pandas==2.2.3
+scikit-learn==1.6.1
+scipy==1.16.3
+torch==2.14.1
